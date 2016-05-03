@@ -1,7 +1,6 @@
 #!/usr/bin/python
 # coding:utf8
 
-# test
 import os
 import sys
 import time
